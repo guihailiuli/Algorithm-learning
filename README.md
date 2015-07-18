@@ -1,4 +1,4 @@
-# Algorithm-learning
+﻿# Algorithm-learning
 My algorithm learning process
 
 **书籍：**算法(第四版) 
@@ -16,3 +16,5 @@ My algorithm learning process
 **其他资料：**伯乐在线算法频道+九章算法leetcode题解+七月算法面试公开课系列+结构之法算法之道github+数据结构(学堂在线)
 
 **要求：**熟练(自己独立快速写出来)基本算法（Java+Python）
+
+暑假愉快 :)
