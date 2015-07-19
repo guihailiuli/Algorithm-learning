@@ -1,4 +1,5 @@
 Q: 什么是java的字节码?
+
 A: 它是程序的低级表示，可以运行在Java虚拟机中，将程序抽象为字节码可以保证Java程序员的代码能运行在各种设备上。
 
 Q:  如何将一个double变量初始化为无穷大？
@@ -14,6 +15,7 @@ Q:  嵌套if语句有二义性吗？
 A:  有。比如： if<exp1> if <exp2> <stmntA> else <stmntB>
         等价于： if<exp1> { if <exp2> <stmntA> else <stmntB> }
     所以，记得使用大括号
+    
 Q:  一个for循环和它的while形式有什么区别？
 A:  for循环的头部代码和主体代码都是在同一个代码段中，
     for(int i=1; i<100; i++){}  在一个for循环中，递增变量在循环结束后都是不可用的。
